@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is MAtthew, and I'm currently a Y2 student studying information systems in NUS. Look forward to more projects here!
+My name is Matthew, and I'm currently a Y2 student studying information systems in NUS. Look forward to more projects here!
 <!--
 **mxtt1/mxtt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
